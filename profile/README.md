@@ -1,6 +1,9 @@
 # Ravenville
+[![Ravenville](https://img.shields.io/badge/Ravenville-red)](https://www.ravenville.io/)
+[![Canon Lite](https://img.shields.io/badge/Canon%20Lite-blue)](https://github.com/Ravenville-io/flame-architecture-lite)
 
 **Where Story Becomes Myth**
+![peter-herrmann-rQ48IOdm6XQ-unsplash](https://github.com/user-attachments/assets/b1f3cbd3-98e9-44f9-be9f-c5fdd15dab00)
 
 Ravenville is more than a company. It is a **realm** — a living ecosystem built for immersive storytelling, rare outliers, and visionary creators who refuse to compromise.
 
@@ -66,16 +69,8 @@ What you see here is intentional.
 ## Explore Further
 
 - 🌐 Website: https://ravenville.io
-- 📜 Living architecture (fragment of canon): *Flame Architecture — Lite*
+- 📜 Living architecture (fragment of canon): [Flame Architecture — Lite](https://github.com/Ravenville-io/flame-architecture-lite)
 
 If this resonates, you are already closer than you think.
 
 Welcome to the realm.
-
----
-
-### Public Architecture
-
-To explore a public fragment of Ravenville’s living architecture, visit **Flame Architecture — Lite**:
-https://github.com/Ravenville-io/flame-architecture-lite
-
