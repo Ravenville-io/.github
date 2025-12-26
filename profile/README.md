@@ -4,6 +4,7 @@
 
 **Where Story Becomes Myth**
 ![peter-herrmann-rQ48IOdm6XQ-unsplash](https://github.com/user-attachments/assets/b1f3cbd3-98e9-44f9-be9f-c5fdd15dab00)
+*This GitHub organization reflects the public surface of a much larger living system.*
 
 Ravenville is more than a company. It is a **realm** — a living ecosystem built for immersive storytelling, rare outliers, and visionary creators who refuse to compromise.
 
